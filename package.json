@@ -1,0 +1,23 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "faq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass style.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieeusnm288/weeek1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieeusnm288/weeek1/issues"
+  },
+  "homepage": "https://github.com/hieeusnm288/weeek1#readme",
+  "devDependencies": {
+    "sass": "^1.81.0"
+  }
+}
